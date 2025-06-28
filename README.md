@@ -86,8 +86,6 @@ The project is implemented in a Jupyter Notebook and processes a subset of the S
 
     Running the Project:
 
-        Install dependencies:
-
-pip install -r requirements.txt
-
-Ensure dataset files are in the archive folder as per notebook path usage.
+        1. Install dependencies: pip install -r requirements.txt
+        
+        2. Ensure dataset files are in the archive folder as per notebook path usage.
